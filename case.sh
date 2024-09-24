@@ -15,19 +15,19 @@ sunday)
 echo "sunday"
 ;;
 
-wednesday
+wednesday)
 echo "wednesday"
 ;;
 
-tuesday
+tuesday)
 echo "tuesday"
 ;;
 
-friday
+friday)
 echo "friday"
 ;;
 
-saturday
+saturday)
 echo "saturday"
 ;;
 
